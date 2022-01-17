@@ -1,0 +1,2 @@
+# patika_veri_yapilari_ve_algoritmalari_projeler
+Proje dosyalari
